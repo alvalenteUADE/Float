@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  margin: 20px auto;
+}
+
+.column {
+  width: 33%;
+  float: left;
+}
+
+.clearColumn {
+  clear: both;
+}
